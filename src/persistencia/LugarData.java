@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package modelo;
+package persistencia;
 
 /**
  *
  * @author Capotes
  */
-public class Comprador {
+public class LugarData {
     
 }

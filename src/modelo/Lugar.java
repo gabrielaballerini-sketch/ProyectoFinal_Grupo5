@@ -9,6 +9,6 @@ package modelo;
  *
  * @author Capotes
  */
-public class Comprador {
+public class Lugar {
     
 }

@@ -22,3 +22,9 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/build/
+*.nbattrs: Atributos del proyecto NetBeans.
+*.nbactions: Acciones del proyecto NetBeans.
+*.nbproject/private/private.properties: Propiedades privadas del proyecto.
+*.nbproject/private/private.xml: XML privado del proyecto.
+nbproject/project.xml: Configuración del proyecto.
