@@ -10,5 +10,10 @@ package modelo;
  * @author Capotes
  */
 public class Comprador {
+<<<<<<< Updated upstream
+=======
+    private String asd = "asdasd";
+    private String asdasd= "asdasd";
+>>>>>>> Stashed changes
     
 }
