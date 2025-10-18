@@ -11,9 +11,21 @@ package modelo;
  */
 public class Comprador {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+
+>>>>>>> Stashed changes
     private String asd = "asdasd";
+
+
+  
     private String asdasd= "asdasd";
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+
+
 >>>>>>> Stashed changes
     
 }
