@@ -10,5 +10,6 @@ package modelo;
  * @author Capotes
  */
 public class Comprador {
+    private String asd = "asdasd";
     
 }
